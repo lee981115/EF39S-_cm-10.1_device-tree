@@ -1,7 +1,7 @@
-android_device_pantech_t100k
+android_device_pantech_a800s
 ============================
 
-CyanogenMod10 device tree for IM-T100K (SKY Vega No.5) - Jellybean Branch
+CyanogenMod10 device tree for IM-a800s (SKY Vega LTE) - Jellybean Branch
 
 Working:
 * RIL
@@ -20,3 +20,4 @@ Known issues:
 * Bluetooth SCO is not working
 * HDMI is not tested
 * Properiatary softwares are not working ( DMB, etc...)
+
