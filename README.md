@@ -21,3 +21,4 @@ Known issues:
 * HDMI is not tested
 * Properiatary softwares are not working ( DMB, etc...)
 
+original= Hpa android_device_pantech_t100k (https://github.com/985hPaKicK/android_device_pantech_t100k.git)
