@@ -12,7 +12,7 @@ USE_CAMERA_STUB := false
 TARGET_NO_BOOTLOADER := true
 
 TARGET_BOARD_PLATFORM := msm8660
-TARGET_BOARD_PLATFORM_GPU := qcom-adreno200
+TARGET_BOARD_PLATFORM_GPU := qcom-adreno220
 
 TARGET_CPU_ABI := armeabi-v7a
 TARGET_CPU_ABI2 := armeabi
@@ -125,4 +125,3 @@ BOARD_CUSTOM_RECOVERY_KEYMAPPING := ../../device/pantech/ef39s/recovery/recovery
 BOARD_UMS_LUNFILE := "/sys/devices/platform/msm_hsusb/gadget/lun%d/file"
 TARGET_USERIMAGES_USE_EXT4 := true
 TARGET_ARCH := arm
-BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/pantech/ef39s/bluetooth
